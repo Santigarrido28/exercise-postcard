@@ -1,0 +1,11 @@
+*{box-sizing: border-box;}
+body{background: black; font-family: Arial, Halvetica, sans-serif}
+.card{width: 600 px; margin: 100 px auto; background: white;}
+.header {display :flex; padding: 10 px; }
+.header img{height : 70 px;
+.header h1 { width: 100 px; }
+.body {display: flex; }
+.body .left, .body ,right{ width: 50 %; padding: 0 10 px; }
+.imput {width:  100 %; padding: 5 px; margin: 3 px 0 ; border: 0; border-botton: 1 px solid #BDBDBD;}
+.footer {text-align: center; padding: 10 px;}
+button {padding: 10 px 20 px; font-size: 14 px;}
